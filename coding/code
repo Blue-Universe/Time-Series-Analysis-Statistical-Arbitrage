@@ -1,0 +1,5 @@
+Data Exploration.ipynb: explore the characteristics of data.
+Model_EA.ipynb: build time series models for EA.
+Model_FB.ipynb: build time series models for FB.
+Model_NFLX.ipynb: build time series models for NFLX.
+Strategy _ Backtest.ipynb: backtest strategy based on the selected models and estimated volatility.
