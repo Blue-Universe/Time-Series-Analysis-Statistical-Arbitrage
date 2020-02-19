@@ -1,0 +1,5 @@
+This project used GARCH type models to estimate volatility and used delta hedging method to make a profit.
+
+1. Tested stationary, autocorrelation, mean reverting trend and extra kurtosis of data for GARCH Models
+2. Built GARCH type models and used maximum likelyhood extimation to deterimine parameters for models
+3. Select best models according to BIC and developed trading strategy based on estimated volatility and used delta hedging reducing risk
